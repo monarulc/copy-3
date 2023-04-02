@@ -1,1 +1,1 @@
-const offerLink = "https://saybd.com";
+const offerLink = "https://murl.netlify.app";
